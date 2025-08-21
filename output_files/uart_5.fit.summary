@@ -1,0 +1,16 @@
+Fitter Status : Successful - Fri Aug 22 03:33:08 2025
+Quartus Prime Version : 21.1.0 Build 842 10/21/2021 SJ Lite Edition
+Revision Name : uart_5
+Top-level Entity Name : uart_5
+Family : Cyclone 10 LP
+Device : 10CL025YU256C8G
+Timing Models : Final
+Total logic elements : 174 / 24,624 ( < 1 % )
+    Total combinational functions : 143 / 24,624 ( < 1 % )
+    Dedicated logic registers : 118 / 24,624 ( < 1 % )
+Total registers : 118
+Total pins : 6 / 151 ( 4 % )
+Total virtual pins : 0
+Total memory bits : 0 / 608,256 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 132 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )

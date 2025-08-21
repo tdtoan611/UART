@@ -1,0 +1,1 @@
+Info (10281): Verilog HDL Declaration information at uart_5.sv(18): object "led" differs only in case from object "LED" in the same scope File: D:/Data Bi/test/uart_5/uart_5.sv Line: 18

@@ -1,0 +1,7 @@
+
+State Machine - |uart_5|current_state
+Name current_state.LATCH current_state.SEND_DIGIT current_state.SEND_SEGMENT current_state.IDLE 
+current_state.IDLE 0 0 0 0 
+current_state.SEND_SEGMENT 0 0 1 1 
+current_state.SEND_DIGIT 0 1 0 1 
+current_state.LATCH 1 0 0 1 

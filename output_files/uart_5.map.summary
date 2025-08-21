@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Fri Aug 22 03:32:59 2025
+Quartus Prime Version : 21.1.0 Build 842 10/21/2021 SJ Lite Edition
+Revision Name : uart_5
+Top-level Entity Name : uart_5
+Family : Cyclone 10 LP
+Total logic elements : 199
+    Total combinational functions : 143
+    Dedicated logic registers : 118
+Total registers : 118
+Total pins : 6
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
