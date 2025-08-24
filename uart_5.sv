@@ -103,7 +103,7 @@ always_ff @(posedge clk or negedge rst_n) begin
     prev_bcd_input <= 0;
   end else begin
     // Phát hiện dữ liệu UART mới
-    new_data_flag <= (prev_bcd_input != bcd_input) ? 1 : 0;
+	  new_data_flag <= (prev_bcd_input != bcd_input) ? 1 : 0;  // this condition might cause an error when 4 input numbers are the same (Ex: "1111"...,etc.).
     prev_bcd_input <= bcd_input;
     
     if (new_data_flag) begin
